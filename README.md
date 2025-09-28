@@ -87,9 +87,9 @@ luxury-car-analysis/
 # Screenshots / Demo 📸
 
 
-ROLLS ROYCE  -[Alt text](https://github.com/KishoreKumar114/luxury-car-analysis/blob/main/Rolls%20royce%20dashboard%20screenshot.png)
-BMW -[Alt text](https://github.com/KishoreKumar114/luxury-car-analysis/blob/main/BMW%20dashboard%20screenshot.png)
-FERRARI -[Alt text](https://github.com/KishoreKumar114/luxury-car-analysis/blob/main/Ferrari%20dashboard%20screenshot.png)
+ROLLS ROYCE  - [Alt text](https://github.com/KishoreKumar114/luxury-car-analysis/blob/main/Rolls%20royce%20dashboard%20screenshot.png)
+BMW - [Alt text](https://github.com/KishoreKumar114/luxury-car-analysis/blob/main/BMW%20dashboard%20screenshot.png)
+FERRARI - [Alt text](https://github.com/KishoreKumar114/luxury-car-analysis/blob/main/Ferrari%20dashboard%20screenshot.png)
 
 ---
 
