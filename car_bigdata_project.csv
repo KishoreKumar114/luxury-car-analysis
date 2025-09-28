@@ -1,0 +1,601 @@
+brand,model,year,price_inr,horsepower,mileage,fuel_type,transmission,top_speed,resale_value,owner_type,notes
+Ferrari,Roma,2021,53079505,620,4.1,Petrol,Manual,295,32140000.0,Second Owner,Well maintained
+Ferrari,Roma,2023,52756136,682,5.7,Diesel,Manual,280,33430000.0,First Owner,Imported
+Ferrari,Roma,2015,54000221,590,4.5,Hybrid,Automatic,228,30260000.0,Second Owner,Imported
+Ferrari,Roma,2013,41349307,712,5.8,Petrol,Manual,239,19970000.0,First Owner,Luxury edition
+Ferrari,Roma,2022,27631339,637,4.1,Diesel,Manual,293,12600000.0,Third Owner,
+Ferrari,Roma,2014,39648339,649,5.7,Hybrid,Automatic,227,21710000.0,Second Owner,Single owner
+Ferrari,Roma,2018,47650535,588,6.4,Petrol,Automatic,272,22270000.0,First Owner,Imported
+Ferrari,Roma,2017,58684431,594,6.0,Petrol,Manual,326,38090000.0,Third Owner,Luxury edition
+Ferrari,Roma,2018,20552819,647,6.4,Diesel,Automatic,256,12550000.0,Third Owner,Single owner
+Ferrari,Roma,2013,38531698,713,4.2,Petrol,Automatic,280,17840000.0,Third Owner,
+Ferrari,Roma,2021,30666710,672,5.9,Diesel,Manual,307,17060000.0,First Owner,Luxury edition
+Ferrari,Roma,2016,40276310,687,5.7,Petrol,Manual,222,18970000.0,First Owner,Luxury edition
+Ferrari,Roma,2022,45788171,688,4.5,Diesel,Automatic,255,25890000.0,First Owner,Luxury edition
+Ferrari,Roma,2013,52538799,564,4.9,Diesel,Manual,280,33980000.0,Second Owner,
+Ferrari,Roma,2013,53232006,653,5.9,Hybrid,Automatic,291,36410000.0,Third Owner,Single owner
+Ferrari,Roma,2014,20688675,632,4.6,Petrol,Manual,266,11840000.0,First Owner,
+Ferrari,Roma,2022,18029469,699,4.8,Diesel,Automatic,301,10970000.0,Second Owner,Well maintained
+Ferrari,Roma,2014,19729223,570,4.9,Petrol,Manual,225,12010000.0,Second Owner,Well maintained
+Ferrari,Roma,2019,55539922,627,6.9,Diesel,Manual,276,32730000.0,Second Owner,Well maintained
+Ferrari,Roma,2011,29012148,691,5.2,Petrol,Automatic,244,14580000.0,First Owner,Single owner
+Ferrari,Roma,2014,32619452,597,6.1,Petrol,Manual,280,16190000.0,First Owner,Single owner
+Ferrari,Roma,2018,41261403,595,6.9,Diesel,Manual,256,28390000.0,Third Owner,Well maintained
+Ferrari,Roma,2019,36642045,602,6.8,Diesel,Automatic,221,20420000.0,Second Owner,Luxury edition
+Ferrari,Roma,2014,50811492,611,6.1,Petrol,Manual,234,29340000.0,Second Owner,
+Ferrari,Roma,2017,27089582,602,4.7,Hybrid,Automatic,291,12420000.0,Second Owner,Luxury edition
+Ferrari,Roma,2020,58679659,701,5.3,Hybrid,Automatic,246,28900000.0,First Owner,Luxury edition
+Ferrari,Roma,2018,31310609,552,5.1,Diesel,Manual,286,15660000.0,First Owner,Luxury edition
+Ferrari,Roma,2019,30617565,556,4.1,Hybrid,Manual,242,14120000.0,Second Owner,Single owner
+Ferrari,Roma,2010,46357529,677,5.8,Petrol,Manual,274,27250000.0,Second Owner,Single owner
+Ferrari,Roma,2018,51190621,658,6.4,Petrol,Automatic,323,24560000.0,Third Owner,Luxury edition
+Ferrari,Roma,2023,24413927,666,5.1,Petrol,Manual,315,11250000.0,Third Owner,Luxury edition
+Ferrari,Roma,2021,30023355,616,6.7,Diesel,Manual,221,12570000.0,Third Owner,Well maintained
+Ferrari,Roma,2019,24595370,665,6.8,Hybrid,Manual,328,11790000.0,Second Owner,Well maintained
+Ferrari,Roma,2015,51567031,623,4.9,Petrol,Manual,319,24070000.0,First Owner,Well maintained
+Ferrari,Roma,2018,22087134,653,6.2,Hybrid,Automatic,237,10840000.0,Second Owner,
+Ferrari,Roma,2014,47532562,633,5.9,Diesel,Automatic,287,31450000.0,Third Owner,Imported
+Ferrari,Roma,2021,50815692,677,5.8,Hybrid,Automatic,240,25240000.0,Third Owner,
+Ferrari,Roma,2019,40247970,673,5.2,Hybrid,Manual,245,27340000.0,Second Owner,Luxury edition
+Ferrari,Roma,2020,53450761,570,5.4,Diesel,Automatic,223,36960000.0,First Owner,
+Ferrari,Roma,2010,54431869,577,6.8,Petrol,Automatic,245,33700000.0,First Owner,Single owner
+Ferrari,Roma,2016,59812665,699,5.5,Petrol,Manual,274,27530000.0,Third Owner,Well maintained
+Ferrari,Roma,2022,27304011,647,6.5,Hybrid,Automatic,318,18940000.0,Second Owner,
+Ferrari,Roma,2010,34640983,628,4.8,Hybrid,Manual,241,16100000.0,Third Owner,Imported
+Ferrari,Roma,2010,26822676,551,5.6,Petrol,Manual,265,14140000.0,Third Owner,Imported
+Ferrari,Roma,2020,21734250,629,5.4,Diesel,Manual,314,13470000.0,Third Owner,Imported
+Ferrari,Roma,2017,35341592,591,6.1,Diesel,Automatic,236,14260000.0,First Owner,Single owner
+Ferrari,Roma,2016,30687840,681,4.4,Petrol,Automatic,291,16400000.0,Second Owner,Imported
+Ferrari,Roma,2012,58831865,653,4.2,Petrol,Automatic,308,28980000.0,First Owner,Luxury edition
+Ferrari,Roma,2013,30908543,659,5.9,Hybrid,Automatic,227,18760000.0,Third Owner,Luxury edition
+Ferrari,Roma,2011,58040521,636,6.3,Hybrid,Manual,317,37030000.0,Second Owner,
+Ferrari,Roma,2019,25420908,710,4.6,Petrol,Automatic,317,15970000.0,Third Owner,
+Ferrari,Roma,2018,42651675,563,4.1,Hybrid,Manual,312,23960000.0,Third Owner,Luxury edition
+Ferrari,Roma,2010,35786049,632,4.9,Hybrid,Automatic,225,16510000.0,First Owner,Luxury edition
+Ferrari,Roma,2021,26690068,637,5.7,Diesel,Manual,304,17350000.0,First Owner,Luxury edition
+Ferrari,Roma,2018,56049984,671,6.3,Hybrid,Automatic,271,36310000.0,Second Owner,Imported
+Ferrari,Roma,2012,39092149,623,5.0,Diesel,Manual,276,25030000.0,Second Owner,Single owner
+Ferrari,Roma,2018,32979498,621,6.4,Petrol,Automatic,291,21360000.0,Second Owner,Imported
+Ferrari,Roma,2019,24061348,593,5.0,Diesel,Automatic,277,10580000.0,First Owner,Imported
+Ferrari,Roma,2016,22707779,638,6.7,Petrol,Manual,289,9570000.0,Second Owner,Luxury edition
+Ferrari,Roma,2022,23191956,655,4.3,Hybrid,Automatic,229,10720000.0,Second Owner,
+Ferrari,Roma,2021,54107955,604,5.0,Diesel,Manual,258,33980000.0,Second Owner,Imported
+Ferrari,Roma,2020,44907325,686,5.1,Petrol,Manual,292,23000000.0,Third Owner,Well maintained
+Ferrari,Roma,2018,59785977,665,5.1,Diesel,Automatic,315,34980000.0,Second Owner,Well maintained
+Ferrari,Roma,2015,54901442,675,6.1,Hybrid,Automatic,286,29680000.0,Third Owner,Well maintained
+Ferrari,Roma,2015,45889966,564,5.9,Hybrid,Manual,241,20030000.0,First Owner,Imported
+Ferrari,Roma,2014,36792920,606,4.9,Hybrid,Automatic,257,18000000.0,First Owner,Imported
+Ferrari,Roma,2010,57010236,663,5.5,Petrol,Manual,250,37080000.0,Third Owner,Well maintained
+Ferrari,Roma,2023,47538586,615,5.9,Petrol,Automatic,290,28150000.0,Second Owner,Well maintained
+Ferrari,Roma,2022,58848016,599,6.7,Hybrid,Automatic,231,26990000.0,Third Owner,
+Ferrari,Roma,2021,43238547,679,6.2,Diesel,Manual,307,18580000.0,Third Owner,Well maintained
+Ferrari,Roma,2015,37491724,576,4.4,Petrol,Automatic,307,22270000.0,Second Owner,Single owner
+Ferrari,Roma,2018,55518184,674,5.6,Petrol,Manual,308,36590000.0,Second Owner,Well maintained
+Ferrari,Roma,2016,43528920,607,4.4,Hybrid,Manual,251,23620000.0,Third Owner,Well maintained
+Ferrari,Roma,2019,32352108,680,6.7,Diesel,Manual,242,21460000.0,First Owner,
+Ferrari,Roma,2016,54558643,654,5.7,Petrol,Automatic,224,26930000.0,Third Owner,Luxury edition
+Ferrari,Roma,2010,28685180,680,5.8,Petrol,Automatic,264,19830000.0,First Owner,Imported
+Ferrari,Roma,2022,26139490,553,5.2,Diesel,Automatic,263,14270000.0,Second Owner,Single owner
+Ferrari,Roma,2012,56797573,576,4.3,Diesel,Automatic,267,38050000.0,Third Owner,
+Ferrari,Roma,2014,41277002,604,4.1,Diesel,Automatic,256,18540000.0,Second Owner,Imported
+Ferrari,Roma,2012,44061093,597,6.7,Hybrid,Manual,317,18000000.0,Third Owner,
+Ferrari,Roma,2017,24267304,563,6.1,Diesel,Manual,236,15710000.0,Third Owner,Single owner
+Ferrari,Roma,2022,22486472,610,6.6,Hybrid,Manual,273,10430000.0,First Owner,Well maintained
+Ferrari,Roma,2020,37961294,605,6.3,Hybrid,Manual,290,22950000.0,Third Owner,Well maintained
+Ferrari,Roma,2020,36789462,686,4.3,Diesel,Automatic,290,17050000.0,Third Owner,Well maintained
+Ferrari,Roma,2015,25500684,620,6.4,Hybrid,Manual,228,10510000.0,Second Owner,
+Ferrari,Roma,2020,28046125,642,5.6,Petrol,Automatic,326,11780000.0,Third Owner,Single owner
+Ferrari,Roma,2017,22678438,676,4.6,Hybrid,Automatic,300,10900000.0,First Owner,Imported
+Ferrari,Roma,2015,56971879,655,5.6,Diesel,Automatic,292,36530000.0,First Owner,Single owner
+Ferrari,Roma,2023,43762218,716,5.5,Diesel,Automatic,236,23340000.0,First Owner,Luxury edition
+Ferrari,Roma,2016,30416015,696,6.3,Petrol,Manual,222,12210000.0,First Owner,Well maintained
+Ferrari,Roma,2012,57976005,584,5.1,Hybrid,Automatic,224,32460000.0,First Owner,
+Ferrari,Roma,2012,29387970,669,5.0,Diesel,Manual,265,13370000.0,First Owner,Luxury edition
+Ferrari,Roma,2010,43374201,589,6.7,Petrol,Manual,253,21450000.0,First Owner,Imported
+Ferrari,Roma,2021,31708352,609,4.4,Diesel,Manual,306,19190000.0,Second Owner,Single owner
+Ferrari,Roma,2022,36656737,629,4.7,Diesel,Automatic,285,15150000.0,Second Owner,Imported
+Ferrari,Roma,2015,26914436,589,6.2,Hybrid,Automatic,287,11860000.0,First Owner,Imported
+Ferrari,Roma,2021,49565403,665,6.7,Diesel,Manual,288,31110000.0,Third Owner,Well maintained
+Ferrari,Roma,2012,26225241,700,5.8,Diesel,Automatic,326,15920000.0,First Owner,Imported
+Ferrari,Roma,2013,21733867,662,6.9,Diesel,Manual,221,14400000.0,Second Owner,
+Ferrari,Roma,2019,35983425,574,6.1,Petrol,Manual,241,17610000.0,Second Owner,Well maintained
+Ferrari,Roma,2022,46700966,582,5.7,Diesel,Automatic,239,31390000.0,Second Owner,Well maintained
+Ferrari,Roma,2022,31899760,719,5.6,Petrol,Automatic,274,14020000.0,Third Owner,Single owner
+Ferrari,Roma,2013,42162692,676,5.5,Diesel,Automatic,275,23150000.0,First Owner,Luxury edition
+Ferrari,Roma,2020,23871209,653,4.3,Diesel,Manual,259,11620000.0,Third Owner,Luxury edition
+Ferrari,Roma,2016,57304625,651,5.4,Diesel,Automatic,282,31030000.0,Second Owner,Single owner
+Ferrari,Roma,2019,57012512,590,6.9,Diesel,Automatic,247,35550000.0,Second Owner,Imported
+Ferrari,Roma,2021,53172438,567,6.3,Petrol,Automatic,224,25940000.0,Third Owner,Luxury edition
+Ferrari,Roma,2023,38905129,666,4.5,Hybrid,Manual,265,17060000.0,Second Owner,
+Ferrari,Roma,2011,39076941,622,4.1,Petrol,Manual,284,18130000.0,First Owner,Luxury edition
+Ferrari,Roma,2012,25991541,698,5.8,Hybrid,Automatic,314,16450000.0,Second Owner,
+Ferrari,Roma,2020,20538261,588,5.9,Petrol,Manual,316,9990000.0,First Owner,Luxury edition
+Ferrari,Roma,2022,37279430,705,5.6,Hybrid,Automatic,325,16520000.0,First Owner,Single owner
+Ferrari,Roma,2017,40045146,628,6.2,Hybrid,Automatic,323,17700000.0,Third Owner,Imported
+Ferrari,Roma,2016,42225193,680,4.2,Hybrid,Manual,323,20360000.0,First Owner,
+Ferrari,Roma,2015,55904812,565,6.9,Petrol,Manual,290,33700000.0,Third Owner,Luxury edition
+Ferrari,Roma,2023,48923741,571,5.2,Diesel,Automatic,248,25480000.0,Third Owner,Well maintained
+Ferrari,Roma,2023,48604814,569,6.9,Petrol,Automatic,279,28900000.0,Second Owner,Imported
+Ferrari,Roma,2021,18416555,681,4.1,Diesel,Automatic,297,10670000.0,Second Owner,Imported
+Ferrari,Roma,2013,47639866,710,6.3,Diesel,Manual,229,23660000.0,First Owner,Single owner
+Ferrari,Roma,2021,35441779,670,5.8,Petrol,Automatic,253,15730000.0,Third Owner,Imported
+Ferrari,Roma,2019,44720634,593,6.8,Diesel,Automatic,288,21300000.0,Second Owner,Well maintained
+Ferrari,Roma,2022,27619013,719,4.1,Hybrid,Automatic,267,11130000.0,Second Owner,
+Ferrari,Roma,2013,41062464,573,4.2,Diesel,Automatic,304,19510000.0,Second Owner,Luxury edition
+Ferrari,Roma,2019,59469416,560,4.5,Petrol,Manual,317,31280000.0,Third Owner,Single owner
+Ferrari,Roma,2018,18974862,706,6.6,Petrol,Manual,282,8930000.0,First Owner,Single owner
+Ferrari,Roma,2013,42750869,703,6.6,Hybrid,Automatic,284,24190000.0,Second Owner,Luxury edition
+Ferrari,Roma,2022,19082975,644,4.2,Diesel,Automatic,265,9780000.0,Second Owner,Single owner
+Ferrari,Roma,2014,58434622,665,6.0,Diesel,Manual,299,27880000.0,First Owner,Single owner
+Ferrari,Roma,2016,29597930,640,5.6,Hybrid,Automatic,277,20510000.0,Second Owner,Imported
+Ferrari,Roma,2010,57454550,643,4.5,Hybrid,Automatic,310,30630000.0,Third Owner,Luxury edition
+Ferrari,Roma,2019,53790685,610,4.6,Petrol,Manual,235,37430000.0,First Owner,
+Ferrari,Roma,2011,28681046,613,5.9,Diesel,Automatic,316,18630000.0,Third Owner,Imported
+Ferrari,Roma,2021,48853598,694,6.6,Hybrid,Automatic,282,33100000.0,Second Owner,Luxury edition
+Ferrari,Roma,2020,46593072,636,5.3,Hybrid,Manual,272,27830000.0,Third Owner,Imported
+Ferrari,Roma,2021,23331022,653,4.9,Hybrid,Automatic,295,11830000.0,Third Owner,Imported
+Ferrari,Roma,2017,40523543,643,6.2,Diesel,Automatic,296,21720000.0,Third Owner,Single owner
+Ferrari,Roma,2022,46690132,590,5.4,Hybrid,Manual,266,30570000.0,First Owner,Well maintained
+Ferrari,Roma,2016,20544902,560,5.4,Hybrid,Automatic,235,8620000.0,Second Owner,Well maintained
+Ferrari,Roma,2017,38803546,565,5.8,Petrol,Automatic,285,19560000.0,Third Owner,
+Ferrari,Roma,2012,28816154,665,4.3,Hybrid,Manual,326,18440000.0,Second Owner,
+Ferrari,Roma,2022,31561454,648,5.1,Hybrid,Automatic,233,16140000.0,Third Owner,Luxury edition
+Ferrari,Roma,2022,55297536,635,6.3,Petrol,Automatic,272,38240000.0,Third Owner,Imported
+Ferrari,Roma,2022,52107666,566,6.3,Hybrid,Automatic,299,33080000.0,First Owner,Single owner
+Ferrari,Roma,2011,32663090,638,6.9,Diesel,Manual,307,19240000.0,Second Owner,Luxury edition
+Ferrari,Roma,2015,47433540,669,4.5,Hybrid,Automatic,286,31300000.0,Third Owner,Imported
+Ferrari,Roma,2012,31547501,693,5.3,Petrol,Automatic,295,16110000.0,Third Owner,Single owner
+Ferrari,Roma,2013,47471191,565,4.2,Petrol,Manual,254,20710000.0,Second Owner,Single owner
+Ferrari,Roma,2017,39452953,637,6.4,Petrol,Automatic,329,23020000.0,Second Owner,Single owner
+Ferrari,Roma,2022,25616016,672,5.4,Petrol,Automatic,256,11150000.0,First Owner,
+Ferrari,Roma,2022,46968661,658,5.8,Hybrid,Manual,292,22670000.0,Second Owner,
+Ferrari,Roma,2014,33942181,689,5.2,Diesel,Manual,233,15680000.0,First Owner,Luxury edition
+Ferrari,Roma,2012,25531152,613,5.9,Petrol,Automatic,266,16920000.0,First Owner,Well maintained
+Ferrari,Roma,2022,47146421,684,6.3,Petrol,Manual,326,29150000.0,Third Owner,
+Ferrari,Roma,2013,51638805,711,5.9,Hybrid,Automatic,264,33810000.0,Third Owner,Luxury edition
+Ferrari,Roma,2021,35029744,641,5.8,Diesel,Automatic,231,17850000.0,First Owner,Single owner
+Ferrari,Roma,2016,43158592,693,4.2,Diesel,Automatic,226,22650000.0,Third Owner,
+Ferrari,Roma,2010,38083122,603,4.4,Diesel,Manual,297,18610000.0,Third Owner,Luxury edition
+Ferrari,Roma,2015,19939769,592,5.3,Diesel,Automatic,304,13030000.0,Second Owner,
+Ferrari,Roma,2010,59825066,629,5.2,Diesel,Automatic,326,39760000.0,Second Owner,
+Ferrari,Roma,2016,48955302,633,6.7,Petrol,Automatic,245,20430000.0,Third Owner,Luxury edition
+Ferrari,Roma,2022,26792847,640,5.5,Hybrid,Manual,241,15520000.0,First Owner,Single owner
+Ferrari,Roma,2011,31167516,663,4.7,Diesel,Manual,232,18730000.0,Second Owner,Imported
+Ferrari,Roma,2015,47583688,643,6.6,Hybrid,Automatic,327,30890000.0,Second Owner,Well maintained
+Ferrari,Roma,2017,41693238,574,4.1,Diesel,Automatic,257,22830000.0,Third Owner,Well maintained
+Ferrari,Roma,2014,45177179,668,5.9,Petrol,Manual,273,26360000.0,Third Owner,Single owner
+Ferrari,Roma,2020,51771663,693,6.4,Hybrid,Automatic,226,32190000.0,Third Owner,Luxury edition
+Ferrari,Roma,2017,20710220,686,5.3,Petrol,Automatic,261,9240000.0,First Owner,Luxury edition
+Ferrari,Roma,2017,39247456,677,5.0,Petrol,Manual,295,17280000.0,Third Owner,Imported
+Ferrari,Roma,2019,25630791,577,4.3,Hybrid,Manual,313,10690000.0,First Owner,
+Ferrari,Roma,2016,30371675,646,6.5,Hybrid,Automatic,233,12850000.0,Third Owner,Imported
+Ferrari,Roma,2021,44668044,671,6.0,Diesel,Automatic,267,28280000.0,Second Owner,Well maintained
+Ferrari,Roma,2016,25676007,681,4.6,Hybrid,Manual,272,11690000.0,Second Owner,
+Ferrari,Roma,2022,54928243,670,6.1,Hybrid,Manual,278,33270000.0,First Owner,Imported
+Ferrari,Roma,2021,53237016,560,5.4,Hybrid,Automatic,256,35150000.0,Third Owner,Well maintained
+Ferrari,Roma,2022,59536745,678,4.2,Diesel,Automatic,220,40470000.0,Third Owner,Imported
+Ferrari,Roma,2019,25018487,588,4.8,Diesel,Automatic,270,11110000.0,First Owner,Single owner
+Ferrari,Roma,2015,45939375,686,6.6,Diesel,Manual,262,29130000.0,Third Owner,
+Ferrari,Roma,2019,52234812,564,4.7,Petrol,Automatic,281,25720000.0,First Owner,Luxury edition
+Ferrari,Roma,2017,36893049,598,4.2,Hybrid,Manual,285,16580000.0,Second Owner,Imported
+Ferrari,Roma,2019,37981443,571,5.8,Diesel,Automatic,281,24760000.0,First Owner,
+Ferrari,Roma,2016,36676626,613,4.3,Diesel,Automatic,316,24300000.0,Third Owner,Luxury edition
+Ferrari,Roma,2011,19069734,667,4.9,Petrol,Automatic,300,8230000.0,First Owner,Luxury edition
+Ferrari,Roma,2015,44782735,558,4.0,Hybrid,Automatic,246,22530000.0,Third Owner,Luxury edition
+Ferrari,Roma,2023,58304513,701,5.1,Hybrid,Manual,236,24910000.0,First Owner,Imported
+Ferrari,Roma,2010,20949289,573,5.6,Hybrid,Manual,308,8730000.0,Second Owner,
+Ferrari,Roma,2019,22639925,681,6.1,Hybrid,Manual,307,15570000.0,First Owner,Luxury edition
+Ferrari,Roma,2012,56102654,558,4.5,Hybrid,Automatic,301,23580000.0,Third Owner,Luxury edition
+Ferrari,Roma,2014,51713699,656,5.2,Diesel,Manual,267,30440000.0,Second Owner,Luxury edition
+Ferrari,Roma,2014,57288295,583,5.1,Petrol,Manual,291,23250000.0,First Owner,Imported
+Ferrari,Roma,2014,41333846,565,4.3,Petrol,Manual,230,27530000.0,Second Owner,Well maintained
+Ferrari,Roma,2019,21289463,564,5.2,Diesel,Automatic,249,10400000.0,First Owner,Imported
+Ferrari,Roma,2017,42707105,603,6.9,Hybrid,Manual,277,25960000.0,Third Owner,
+Ferrari,Roma,2013,27532801,607,4.8,Hybrid,Manual,289,14950000.0,First Owner,Single owner
+Ferrari,Roma,2015,50286117,715,6.1,Diesel,Manual,307,23610000.0,First Owner,Imported
+Ferrari,Roma,2018,29209489,593,4.2,Hybrid,Automatic,307,18240000.0,Second Owner,Single owner
+Ferrari,Roma,2021,49231984,707,4.4,Hybrid,Manual,325,34100000.0,Third Owner,
+Ferrari,Roma,2010,48199771,691,7.0,Diesel,Manual,324,31130000.0,Third Owner,Luxury edition
+Ferrari,Roma,2010,19730098,565,4.7,Diesel,Manual,283,8490000.0,Second Owner,Well maintained
+Ferrari,Roma,2011,31540477,664,5.2,Diesel,Automatic,309,16840000.0,Second Owner,Single owner
+Ferrari,Roma,2023,39690574,601,6.2,Petrol,Manual,303,18610000.0,Second Owner,Single owner
+BMW,X7,2013,8444707,333,10.7,Hybrid,Automatic,220,4870000.0,Second Owner,Single owner
+BMW,X7,2020,9001451,370,8.0,Hybrid,Automatic,274,5270000.0,Third Owner,
+BMW,X7,2021,13889301,357,9.5,Hybrid,Manual,223,6060000.0,Second Owner,Imported
+BMW,X7,2022,12751820,266,12.9,Diesel,Manual,306,6750000.0,Second Owner,Single owner
+BMW,X7,2022,12954782,280,10.8,Hybrid,Automatic,256,8450000.0,First Owner,
+BMW,X7,2022,9870588,339,13.2,Hybrid,Automatic,254,6260000.0,Third Owner,Luxury edition
+BMW,X7,2021,11670045,261,10.0,Hybrid,Manual,284,5720000.0,First Owner,
+BMW,X7,2010,10504599,447,13.9,Petrol,Manual,324,7070000.0,Third Owner,
+BMW,X7,2022,11085956,403,10.3,Diesel,Automatic,236,7620000.0,Third Owner,Single owner
+BMW,X7,2023,12610902,421,9.2,Diesel,Manual,240,6280000.0,First Owner,Luxury edition
+BMW,X7,2018,8535628,398,11.5,Diesel,Manual,270,4500000.0,Second Owner,Single owner
+BMW,X7,2012,9236685,308,8.9,Petrol,Manual,266,3820000.0,First Owner,Luxury edition
+BMW,X7,2015,10819454,365,12.1,Petrol,Manual,239,7370000.0,First Owner,Well maintained
+BMW,X7,2014,8455479,335,13.0,Diesel,Automatic,221,5020000.0,First Owner,Well maintained
+BMW,X7,2015,9067306,437,12.9,Diesel,Manual,240,6230000.0,Third Owner,Single owner
+BMW,X7,2022,10108612,337,11.1,Diesel,Automatic,288,4670000.0,Third Owner,
+BMW,X7,2010,11430129,325,9.9,Diesel,Automatic,307,5310000.0,Second Owner,Luxury edition
+BMW,X7,2021,13151167,365,13.5,Hybrid,Manual,309,8460000.0,Second Owner,Well maintained
+BMW,X7,2016,8470201,422,13.4,Diesel,Automatic,267,4860000.0,First Owner,Imported
+BMW,X7,2020,11157243,287,10.7,Diesel,Manual,252,7160000.0,Third Owner,Luxury edition
+BMW,X7,2018,9051483,253,13.3,Petrol,Manual,288,4510000.0,First Owner,Single owner
+BMW,X7,2019,12237899,425,9.0,Hybrid,Manual,225,8310000.0,Third Owner,Single owner
+BMW,X7,2019,11761734,278,11.7,Petrol,Automatic,284,7770000.0,Third Owner,Single owner
+BMW,X7,2011,8007697,329,11.6,Petrol,Automatic,297,5450000.0,Third Owner,Well maintained
+BMW,X7,2014,8183882,398,12.5,Hybrid,Manual,263,4940000.0,First Owner,Single owner
+BMW,X7,2019,14225394,275,8.6,Diesel,Manual,244,7770000.0,First Owner,Well maintained
+BMW,X7,2015,13225874,274,10.7,Petrol,Automatic,302,9040000.0,Third Owner,Well maintained
+BMW,X7,2014,12551517,357,12.9,Hybrid,Manual,288,7800000.0,First Owner,
+BMW,X7,2013,9910642,441,9.5,Petrol,Manual,274,4760000.0,Second Owner,
+BMW,X7,2021,12893819,267,10.6,Petrol,Automatic,244,6070000.0,First Owner,
+BMW,X7,2018,10654176,445,13.9,Petrol,Automatic,287,7180000.0,First Owner,Luxury edition
+BMW,X7,2012,14918337,326,8.4,Diesel,Manual,308,9460000.0,Third Owner,
+BMW,X7,2012,12916340,319,13.9,Petrol,Automatic,238,8170000.0,Third Owner,Imported
+BMW,X7,2013,8379984,445,11.7,Hybrid,Manual,306,5440000.0,Second Owner,
+BMW,X7,2010,12668586,380,11.2,Hybrid,Manual,324,5570000.0,Second Owner,Well maintained
+BMW,X7,2023,12974555,424,12.1,Petrol,Manual,275,8540000.0,Third Owner,Imported
+BMW,X7,2021,14796039,252,10.0,Hybrid,Automatic,271,9700000.0,Third Owner,Well maintained
+BMW,X7,2013,12730950,382,11.4,Petrol,Manual,225,8230000.0,First Owner,Single owner
+BMW,X7,2013,11323434,258,11.0,Hybrid,Automatic,240,5200000.0,Second Owner,Well maintained
+BMW,X7,2011,8216617,392,13.9,Petrol,Manual,318,4210000.0,Second Owner,Well maintained
+BMW,X7,2016,11457351,326,13.7,Petrol,Manual,298,5590000.0,Second Owner,
+BMW,X7,2012,12394520,265,12.8,Petrol,Manual,269,7060000.0,Third Owner,Single owner
+BMW,X7,2013,12664824,406,12.9,Petrol,Automatic,324,8420000.0,Third Owner,Well maintained
+BMW,X7,2022,9197030,269,9.0,Diesel,Automatic,251,4640000.0,First Owner,Luxury edition
+BMW,X7,2019,8353012,273,10.4,Hybrid,Manual,272,5350000.0,Third Owner,Single owner
+BMW,X7,2017,8727993,385,8.1,Hybrid,Manual,315,4360000.0,Third Owner,
+BMW,X7,2013,12611564,446,9.1,Diesel,Manual,298,6510000.0,Second Owner,Luxury edition
+BMW,X7,2011,8632978,407,13.7,Diesel,Automatic,301,5800000.0,Second Owner,Luxury edition
+BMW,X7,2022,12466052,352,13.8,Diesel,Automatic,249,8150000.0,Third Owner,
+BMW,X7,2020,14859927,416,9.5,Petrol,Manual,251,7280000.0,Third Owner,Imported
+BMW,X7,2020,9623512,414,11.1,Petrol,Manual,226,4740000.0,Third Owner,Single owner
+BMW,X7,2022,13578694,252,11.4,Petrol,Manual,300,8210000.0,First Owner,Single owner
+BMW,X7,2018,12736623,371,12.7,Hybrid,Automatic,283,6890000.0,Second Owner,Single owner
+BMW,X7,2023,11226236,293,9.3,Diesel,Automatic,306,7330000.0,Second Owner,Imported
+BMW,X7,2012,9284955,266,11.6,Hybrid,Automatic,319,5840000.0,First Owner,Single owner
+BMW,X7,2019,12596994,369,13.5,Hybrid,Automatic,314,6470000.0,Third Owner,
+BMW,X7,2012,9797899,252,9.0,Diesel,Manual,222,4170000.0,Second Owner,Single owner
+BMW,X7,2012,9240633,301,12.3,Diesel,Automatic,257,4250000.0,First Owner,Luxury edition
+BMW,X7,2011,11808132,330,13.7,Petrol,Manual,274,6400000.0,First Owner,Well maintained
+BMW,X7,2011,13248358,271,8.0,Petrol,Manual,229,7670000.0,Third Owner,
+BMW,X7,2022,11292889,393,10.0,Hybrid,Manual,295,5790000.0,Second Owner,
+BMW,X7,2019,13763597,418,8.1,Petrol,Manual,237,5840000.0,Second Owner,Well maintained
+BMW,X7,2021,8150543,286,8.5,Hybrid,Automatic,301,5620000.0,Third Owner,
+BMW,X7,2010,10339979,283,9.3,Petrol,Automatic,268,5970000.0,Third Owner,Imported
+BMW,X7,2011,8361517,421,11.2,Hybrid,Automatic,247,5430000.0,Second Owner,Single owner
+BMW,X7,2015,12681720,290,11.4,Diesel,Automatic,251,5220000.0,First Owner,
+BMW,X7,2011,9673071,362,12.8,Petrol,Manual,273,6400000.0,Third Owner,Imported
+BMW,X7,2013,11728603,437,8.9,Hybrid,Automatic,266,4770000.0,First Owner,Imported
+BMW,X7,2020,14254276,308,13.4,Diesel,Manual,328,6450000.0,Second Owner,Imported
+BMW,X7,2023,9983266,270,12.3,Petrol,Manual,250,6410000.0,Second Owner,
+BMW,X7,2018,10054515,360,11.5,Hybrid,Manual,292,6860000.0,First Owner,Luxury edition
+BMW,X7,2017,9955621,418,9.8,Hybrid,Automatic,304,6480000.0,Second Owner,Well maintained
+BMW,X7,2014,10001042,415,10.4,Diesel,Manual,244,5890000.0,First Owner,Imported
+BMW,X7,2019,12839173,317,11.3,Hybrid,Manual,250,7680000.0,First Owner,Single owner
+BMW,X7,2014,10957328,321,13.4,Diesel,Manual,247,7550000.0,First Owner,
+BMW,X7,2023,11359507,392,13.8,Petrol,Manual,287,6650000.0,First Owner,Luxury edition
+BMW,X7,2011,10593723,416,8.4,Hybrid,Manual,297,7170000.0,Third Owner,Well maintained
+BMW,X7,2016,14618648,277,13.7,Petrol,Automatic,288,6710000.0,First Owner,Imported
+BMW,X7,2020,13250940,362,11.0,Petrol,Manual,283,6520000.0,Third Owner,
+BMW,X7,2011,13954585,434,12.8,Diesel,Manual,261,8270000.0,Third Owner,Single owner
+BMW,X7,2021,14826393,399,12.1,Petrol,Manual,245,7040000.0,Second Owner,Well maintained
+BMW,X7,2014,14569023,373,10.7,Hybrid,Automatic,309,7920000.0,First Owner,Well maintained
+BMW,X7,2017,14657518,437,9.4,Hybrid,Manual,236,8590000.0,Second Owner,Imported
+BMW,X7,2012,11780787,261,8.8,Hybrid,Manual,300,4790000.0,Third Owner,Imported
+BMW,X7,2019,10579156,360,13.0,Petrol,Manual,303,4410000.0,Third Owner,Single owner
+BMW,X7,2012,11672997,418,12.7,Hybrid,Manual,319,6540000.0,Third Owner,Well maintained
+BMW,X7,2019,13578786,321,10.6,Hybrid,Manual,309,7270000.0,Second Owner,Well maintained
+BMW,X7,2022,14667062,427,10.6,Hybrid,Automatic,280,7200000.0,Second Owner,Luxury edition
+BMW,X7,2023,8671556,303,11.7,Hybrid,Manual,287,5480000.0,Third Owner,
+BMW,X7,2010,10091843,343,9.5,Petrol,Manual,292,5190000.0,Second Owner,Well maintained
+BMW,X7,2021,10741712,363,8.7,Hybrid,Manual,264,5090000.0,First Owner,Imported
+BMW,X7,2012,9106338,289,9.9,Diesel,Automatic,246,5020000.0,Third Owner,Well maintained
+BMW,X7,2021,11723737,250,12.0,Hybrid,Automatic,323,7830000.0,Third Owner,Imported
+BMW,X7,2020,8950910,273,11.7,Diesel,Manual,246,5860000.0,First Owner,Well maintained
+BMW,X7,2012,14286452,334,12.2,Petrol,Automatic,250,6340000.0,Second Owner,
+BMW,X7,2011,10098972,412,8.2,Diesel,Automatic,241,5560000.0,First Owner,Luxury edition
+BMW,X7,2016,11893250,336,13.4,Hybrid,Automatic,222,7040000.0,Third Owner,
+BMW,X7,2012,12681951,365,12.7,Petrol,Manual,241,8400000.0,Second Owner,Single owner
+BMW,X7,2012,13356852,434,11.9,Diesel,Manual,302,6550000.0,Second Owner,Single owner
+BMW,X7,2019,8785442,298,8.8,Hybrid,Automatic,292,4100000.0,First Owner,
+BMW,X7,2010,12502702,437,13.8,Hybrid,Automatic,267,5830000.0,First Owner,Single owner
+BMW,X7,2014,10616175,412,11.3,Hybrid,Manual,326,7190000.0,Third Owner,Luxury edition
+BMW,X7,2015,13322577,386,13.2,Hybrid,Manual,280,7200000.0,Third Owner,Well maintained
+BMW,X7,2023,13328291,392,13.8,Hybrid,Manual,327,6300000.0,First Owner,Luxury edition
+BMW,X7,2019,12410527,390,11.0,Diesel,Manual,295,5640000.0,Second Owner,Imported
+BMW,X7,2015,11470797,318,9.1,Petrol,Manual,286,6210000.0,First Owner,Single owner
+BMW,X7,2011,13182363,413,8.7,Hybrid,Manual,253,7720000.0,First Owner,Imported
+BMW,X7,2019,11501607,442,10.0,Hybrid,Automatic,329,7540000.0,First Owner,Imported
+BMW,X7,2021,8172999,379,8.7,Petrol,Automatic,300,4200000.0,Second Owner,Single owner
+BMW,X7,2012,12871171,327,12.2,Petrol,Manual,321,8210000.0,Third Owner,Well maintained
+BMW,X7,2010,13784958,299,10.2,Hybrid,Manual,267,7390000.0,First Owner,Single owner
+BMW,X7,2017,9688625,441,12.7,Petrol,Automatic,276,5630000.0,Second Owner,Imported
+BMW,X7,2014,13772999,389,12.7,Diesel,Automatic,222,7550000.0,Second Owner,Imported
+BMW,X7,2012,10350838,386,11.6,Hybrid,Manual,221,5140000.0,Second Owner,Single owner
+BMW,X7,2020,13959528,285,11.4,Diesel,Automatic,243,9630000.0,Third Owner,
+BMW,X7,2015,11146864,293,11.6,Petrol,Manual,252,6780000.0,Third Owner,Well maintained
+BMW,X7,2012,10541417,380,8.5,Diesel,Automatic,310,4960000.0,Second Owner,
+BMW,X7,2015,9432614,280,11.3,Diesel,Manual,240,4870000.0,Second Owner,
+BMW,X7,2019,14440455,444,11.2,Petrol,Automatic,320,7430000.0,Second Owner,Single owner
+BMW,X7,2011,8544965,385,9.8,Hybrid,Manual,293,4270000.0,First Owner,
+BMW,X7,2021,13296180,306,12.5,Diesel,Manual,262,6680000.0,Second Owner,
+BMW,X7,2011,14133947,361,11.3,Petrol,Manual,252,6320000.0,First Owner,
+BMW,X7,2022,9130542,259,11.8,Hybrid,Automatic,291,4880000.0,Second Owner,Single owner
+BMW,X7,2012,9642833,386,8.3,Diesel,Manual,273,4560000.0,Third Owner,Well maintained
+BMW,X7,2017,10583156,368,9.5,Diesel,Automatic,238,6630000.0,Second Owner,
+BMW,X7,2017,8755581,356,10.0,Hybrid,Manual,314,5850000.0,Second Owner,
+BMW,X7,2018,9287376,305,10.7,Hybrid,Manual,307,3840000.0,Third Owner,Well maintained
+BMW,X7,2020,13395142,315,9.8,Hybrid,Manual,256,6370000.0,First Owner,Well maintained
+BMW,X7,2012,10643701,413,9.8,Petrol,Automatic,238,6550000.0,Third Owner,Imported
+BMW,X7,2021,13137471,434,13.2,Diesel,Automatic,274,7710000.0,Second Owner,Luxury edition
+BMW,X7,2013,14408489,443,8.2,Hybrid,Automatic,299,9290000.0,Third Owner,Luxury edition
+BMW,X7,2016,8682116,388,12.4,Diesel,Manual,247,4160000.0,Second Owner,Luxury edition
+BMW,X7,2023,10278652,393,8.8,Hybrid,Manual,299,5860000.0,First Owner,
+BMW,X7,2012,13328544,271,8.5,Diesel,Manual,235,6380000.0,Third Owner,Luxury edition
+BMW,X7,2020,10780183,302,10.6,Hybrid,Manual,263,6000000.0,Second Owner,Imported
+BMW,X7,2013,14641033,380,11.9,Hybrid,Automatic,236,6030000.0,First Owner,Luxury edition
+BMW,X7,2014,10449120,282,11.3,Hybrid,Automatic,222,5830000.0,First Owner,Single owner
+BMW,X7,2022,12505325,361,10.0,Hybrid,Manual,304,6950000.0,Third Owner,Luxury edition
+BMW,X7,2023,8089942,407,9.5,Hybrid,Automatic,314,3600000.0,Third Owner,Luxury edition
+BMW,X7,2010,10279868,419,10.9,Diesel,Manual,271,4900000.0,Second Owner,Well maintained
+BMW,X7,2021,12766691,419,12.1,Diesel,Manual,288,6970000.0,Second Owner,Luxury edition
+BMW,X7,2020,9134281,363,11.9,Hybrid,Automatic,243,5620000.0,First Owner,Well maintained
+BMW,X7,2022,13697838,341,10.6,Diesel,Manual,226,8130000.0,First Owner,
+BMW,X7,2023,9115398,333,10.1,Diesel,Manual,304,5460000.0,Second Owner,Well maintained
+BMW,X7,2019,8706390,372,11.9,Petrol,Automatic,274,5930000.0,Third Owner,Single owner
+BMW,X7,2012,13326317,394,10.9,Hybrid,Automatic,222,5590000.0,Third Owner,Luxury edition
+BMW,X7,2015,14912273,339,11.2,Diesel,Automatic,269,5970000.0,Third Owner,Luxury edition
+BMW,X7,2019,10072856,437,9.2,Diesel,Automatic,291,6350000.0,Second Owner,
+BMW,X7,2011,8458129,423,10.0,Petrol,Manual,264,4880000.0,Third Owner,Luxury edition
+BMW,X7,2022,11766209,303,13.2,Petrol,Manual,293,6160000.0,Second Owner,
+BMW,X7,2018,9267171,315,8.0,Hybrid,Automatic,261,6460000.0,Second Owner,Well maintained
+BMW,X7,2017,14475666,264,12.5,Petrol,Automatic,302,9120000.0,Third Owner,Single owner
+BMW,X7,2020,8472961,441,10.0,Diesel,Automatic,265,3830000.0,Second Owner,Well maintained
+BMW,X7,2013,10109192,371,9.5,Diesel,Automatic,255,5210000.0,Second Owner,Well maintained
+BMW,X7,2010,10880498,410,11.6,Petrol,Automatic,280,5080000.0,Third Owner,Imported
+BMW,X7,2020,8014299,436,13.2,Hybrid,Manual,241,3220000.0,First Owner,Well maintained
+BMW,X7,2019,9693944,372,8.2,Petrol,Automatic,314,6660000.0,Second Owner,Luxury edition
+BMW,X7,2013,14171867,420,8.2,Hybrid,Manual,224,8250000.0,Third Owner,
+BMW,X7,2019,8585889,346,13.8,Diesel,Manual,242,5340000.0,First Owner,
+BMW,X7,2017,11248784,345,9.8,Diesel,Manual,263,5330000.0,Second Owner,Luxury edition
+BMW,X7,2020,9431085,327,13.0,Petrol,Manual,259,5950000.0,First Owner,Single owner
+BMW,X7,2013,11289476,332,9.9,Petrol,Manual,299,7010000.0,Second Owner,Luxury edition
+BMW,X7,2018,14850974,357,8.3,Diesel,Automatic,294,9890000.0,Third Owner,Single owner
+BMW,X7,2010,9491118,319,10.3,Petrol,Automatic,319,5170000.0,First Owner,Luxury edition
+BMW,X7,2010,10364615,404,13.0,Diesel,Manual,232,6210000.0,Second Owner,Single owner
+BMW,X7,2020,8706299,339,8.8,Petrol,Manual,222,3800000.0,First Owner,Well maintained
+BMW,X7,2010,9163828,363,11.7,Diesel,Manual,316,5000000.0,Second Owner,Well maintained
+BMW,X7,2018,11142616,389,13.9,Hybrid,Automatic,312,7720000.0,First Owner,Well maintained
+BMW,X7,2013,10027118,318,8.7,Petrol,Manual,241,5120000.0,Third Owner,Well maintained
+BMW,X7,2018,11160092,364,11.3,Petrol,Automatic,227,7100000.0,Second Owner,Well maintained
+BMW,X7,2019,8447540,299,10.9,Diesel,Manual,259,5130000.0,First Owner,Well maintained
+BMW,X7,2019,12431172,284,13.3,Petrol,Manual,318,6900000.0,Third Owner,Single owner
+BMW,X7,2010,11265321,398,12.2,Petrol,Automatic,290,5410000.0,Second Owner,
+BMW,X7,2011,9694625,412,13.3,Petrol,Automatic,247,5270000.0,First Owner,
+BMW,X7,2012,12891837,419,13.5,Diesel,Manual,302,6840000.0,Third Owner,
+BMW,X7,2023,11648931,251,9.7,Hybrid,Manual,317,6260000.0,Second Owner,
+BMW,X7,2012,13189943,312,8.1,Hybrid,Manual,300,7780000.0,First Owner,Luxury edition
+BMW,X7,2014,11854586,406,11.3,Diesel,Manual,281,6560000.0,First Owner,Well maintained
+BMW,X7,2018,9754266,342,8.6,Petrol,Manual,278,6310000.0,Second Owner,
+BMW,X7,2014,9541702,401,10.7,Diesel,Manual,289,3920000.0,Third Owner,Luxury edition
+BMW,X7,2014,11374358,395,8.9,Diesel,Manual,287,5630000.0,Third Owner,
+BMW,X7,2017,10375040,287,13.7,Diesel,Manual,291,4950000.0,Second Owner,
+BMW,X7,2010,8995218,282,13.0,Diesel,Manual,322,6260000.0,Second Owner,Well maintained
+BMW,X7,2012,14505179,341,8.1,Diesel,Manual,225,9060000.0,Third Owner,
+BMW,X7,2018,8302182,392,12.8,Hybrid,Manual,290,4940000.0,First Owner,Luxury edition
+BMW,X7,2015,12887068,399,13.4,Hybrid,Automatic,314,5610000.0,Second Owner,Imported
+BMW,X7,2014,14045628,371,12.7,Petrol,Manual,288,6240000.0,First Owner,Imported
+BMW,X7,2012,11721998,271,10.5,Petrol,Manual,286,6200000.0,First Owner,Single owner
+BMW,X7,2019,11829141,286,8.2,Petrol,Manual,222,5520000.0,Third Owner,Well maintained
+BMW,X7,2022,9699813,395,12.1,Petrol,Manual,265,4880000.0,Second Owner,Luxury edition
+BMW,X7,2016,12803052,356,10.4,Hybrid,Automatic,303,8690000.0,Third Owner,Luxury edition
+BMW,X7,2014,12190125,368,8.4,Diesel,Manual,268,6450000.0,Second Owner,Well maintained
+BMW,X7,2019,14411060,317,10.9,Petrol,Manual,292,5870000.0,First Owner,Well maintained
+BMW,X7,2010,9545615,434,12.2,Diesel,Automatic,284,6090000.0,Second Owner,Well maintained
+BMW,X7,2020,8534668,273,12.0,Petrol,Manual,324,4250000.0,First Owner,Luxury edition
+BMW,X7,2016,11600795,314,10.7,Petrol,Automatic,221,5410000.0,Third Owner,Luxury edition
+BMW,X7,2020,10254702,267,13.8,Hybrid,Manual,302,7050000.0,Second Owner,Single owner
+BMW,X7,2023,10441190,347,10.0,Diesel,Manual,316,7060000.0,First Owner,
+BMW,X7,2015,8453326,307,11.2,Petrol,Manual,254,5710000.0,Third Owner,
+BMW,X7,2020,12000359,420,12.6,Hybrid,Automatic,305,7430000.0,First Owner,
+Rolls-Royce,Ghost,2012,69144738,599,6.1,Diesel,Automatic,274,35910000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2011,70931701,615,8.6,Hybrid,Manual,239,48440000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2017,67698882,540,8.4,Petrol,Automatic,257,40610000.0,Third Owner,
+Rolls-Royce,Ghost,2019,33664252,646,6.8,Hybrid,Manual,227,21930000.0,First Owner,
+Rolls-Royce,Ghost,2015,71440476,558,8.2,Hybrid,Automatic,296,48990000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2023,42280980,595,8.2,Petrol,Manual,311,29540000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2019,36283616,563,6.9,Diesel,Manual,309,19370000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2015,55138730,616,6.8,Hybrid,Manual,297,35340000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2016,68514154,511,6.8,Hybrid,Automatic,321,32160000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2014,72306969,535,7.7,Hybrid,Automatic,308,43740000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2017,69172800,532,7.8,Diesel,Manual,277,44160000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2020,61964283,586,7.6,Hybrid,Automatic,233,36490000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2016,58257639,582,6.8,Hybrid,Automatic,311,29610000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2018,68048893,519,8.1,Diesel,Manual,298,32880000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2019,49343863,644,8.0,Petrol,Automatic,295,25450000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2017,27159879,550,7.3,Diesel,Manual,326,14980000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2015,42243289,571,8.1,Diesel,Manual,280,26270000.0,Second Owner,
+Rolls-Royce,Ghost,2012,53793024,596,7.9,Petrol,Automatic,249,23320000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2019,36745085,614,7.7,Hybrid,Automatic,263,15630000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2016,42245871,500,6.7,Petrol,Manual,245,19690000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2012,30939682,626,7.7,Diesel,Automatic,272,12460000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2010,41962351,549,6.1,Petrol,Automatic,287,22840000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2021,54883621,644,8.9,Hybrid,Automatic,328,29190000.0,First Owner,Imported
+Rolls-Royce,Ghost,2012,77647911,638,7.5,Diesel,Automatic,316,44840000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2011,43797671,562,6.4,Petrol,Automatic,231,25990000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2012,63926507,636,8.8,Diesel,Manual,297,38830000.0,Third Owner,
+Rolls-Royce,Ghost,2012,75359835,592,9.0,Petrol,Manual,242,45490000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2020,29227237,511,6.2,Petrol,Automatic,228,19120000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2012,51138378,545,6.5,Petrol,Manual,236,27570000.0,First Owner,
+Rolls-Royce,Ghost,2015,33674439,589,6.4,Diesel,Automatic,238,14780000.0,First Owner,
+Rolls-Royce,Ghost,2020,26503398,593,6.8,Hybrid,Automatic,328,17370000.0,First Owner,Imported
+Rolls-Royce,Ghost,2021,70699879,590,8.7,Diesel,Manual,321,48680000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2013,49261132,512,7.8,Diesel,Manual,263,32660000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2019,48067529,578,7.6,Diesel,Automatic,270,31560000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2019,63633167,609,7.4,Hybrid,Automatic,240,41690000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2014,54445615,518,7.1,Petrol,Automatic,329,27360000.0,Second Owner,
+Rolls-Royce,Ghost,2022,27735111,570,6.7,Hybrid,Manual,326,16110000.0,First Owner,Imported
+Rolls-Royce,Ghost,2018,71320617,540,7.5,Petrol,Automatic,232,49600000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2021,36729549,641,8.4,Petrol,Manual,308,24540000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2021,62180086,547,8.1,Diesel,Automatic,306,36810000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2016,34513817,607,7.9,Diesel,Automatic,247,21220000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2021,79008232,608,8.0,Petrol,Automatic,299,47720000.0,Second Owner,
+Rolls-Royce,Ghost,2012,66794457,519,8.9,Diesel,Automatic,225,45560000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2012,73639266,549,7.8,Diesel,Automatic,239,45700000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2020,77743944,513,8.1,Diesel,Manual,326,49870000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2017,56526970,584,8.8,Diesel,Manual,263,26510000.0,First Owner,Imported
+Rolls-Royce,Ghost,2017,31075619,571,8.9,Petrol,Manual,253,19370000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2015,61199961,593,8.2,Petrol,Manual,259,36380000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2019,45112315,625,8.8,Diesel,Automatic,222,23710000.0,First Owner,Imported
+Rolls-Royce,Ghost,2020,68533752,626,6.9,Petrol,Manual,256,41360000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2018,43505262,598,8.1,Petrol,Automatic,301,24690000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2013,42708742,600,8.9,Petrol,Manual,225,25200000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2011,50800298,627,8.2,Petrol,Automatic,318,30140000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2011,34617638,516,6.3,Hybrid,Manual,289,22480000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2018,25344453,554,6.3,Petrol,Manual,277,14920000.0,Third Owner,
+Rolls-Royce,Ghost,2021,72897532,567,6.1,Petrol,Manual,235,39100000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2012,75621680,503,8.8,Hybrid,Manual,265,45230000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2018,66832501,624,8.3,Hybrid,Manual,265,28170000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2013,73811216,604,6.4,Petrol,Manual,234,46260000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2014,29416580,579,6.3,Hybrid,Automatic,297,18860000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2013,70724897,637,8.5,Diesel,Manual,300,34830000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2010,59246048,595,6.5,Diesel,Automatic,243,25430000.0,First Owner,Imported
+Rolls-Royce,Ghost,2011,75871060,592,7.7,Petrol,Manual,277,34820000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2017,76625709,561,7.2,Hybrid,Manual,231,47730000.0,Third Owner,
+Rolls-Royce,Ghost,2023,60309725,598,7.5,Diesel,Automatic,298,34650000.0,First Owner,Imported
+Rolls-Royce,Ghost,2010,47224491,546,7.9,Hybrid,Manual,302,29390000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2023,75359616,553,8.0,Petrol,Automatic,267,46820000.0,First Owner,
+Rolls-Royce,Ghost,2021,35330934,631,7.0,Diesel,Automatic,230,17510000.0,Third Owner,
+Rolls-Royce,Ghost,2014,73751947,633,8.5,Petrol,Manual,223,49580000.0,First Owner,Imported
+Rolls-Royce,Ghost,2010,52956947,567,6.4,Petrol,Automatic,267,24420000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2017,26048570,532,8.4,Petrol,Manual,231,14840000.0,First Owner,Imported
+Rolls-Royce,Ghost,2013,41375458,617,7.3,Petrol,Automatic,325,28090000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2018,79495356,520,7.9,Diesel,Manual,275,45970000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2021,30634872,512,6.0,Petrol,Manual,251,20340000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2017,26410676,584,9.0,Hybrid,Automatic,299,16470000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2011,49588295,563,6.4,Hybrid,Automatic,242,19840000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2011,34892527,590,6.7,Diesel,Automatic,260,20740000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2013,46853182,602,7.5,Hybrid,Manual,251,30310000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2015,51751003,641,8.2,Diesel,Manual,271,29890000.0,First Owner,Imported
+Rolls-Royce,Ghost,2010,74264065,575,6.2,Diesel,Manual,225,48990000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2011,51939875,523,8.3,Petrol,Automatic,234,23680000.0,First Owner,Imported
+Rolls-Royce,Ghost,2010,50186848,538,7.1,Petrol,Manual,302,30120000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2020,60348451,594,6.7,Petrol,Automatic,328,24910000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2014,52809201,611,8.3,Hybrid,Automatic,269,22940000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2019,38156372,643,6.7,Hybrid,Manual,254,25350000.0,First Owner,Imported
+Rolls-Royce,Ghost,2016,55887790,628,8.6,Diesel,Manual,308,35260000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2022,73257938,606,7.4,Hybrid,Manual,282,32310000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2020,55629628,526,7.1,Hybrid,Manual,237,28440000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2014,56520307,628,8.0,Diesel,Manual,286,25840000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2010,75912710,533,7.9,Diesel,Manual,232,41870000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2023,74795847,517,7.2,Petrol,Manual,273,34840000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2018,60304470,617,8.1,Diesel,Manual,324,41830000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2020,45610986,614,6.8,Hybrid,Automatic,255,20520000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2017,50818564,625,6.5,Hybrid,Manual,274,26180000.0,First Owner,
+Rolls-Royce,Ghost,2011,76202460,517,6.0,Petrol,Automatic,237,38220000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2020,57237912,582,8.7,Diesel,Automatic,223,28780000.0,Second Owner,
+Rolls-Royce,Ghost,2013,36302142,644,6.8,Diesel,Manual,310,18320000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2010,66055361,581,6.6,Hybrid,Manual,271,32580000.0,First Owner,
+Rolls-Royce,Ghost,2011,43803417,526,8.4,Petrol,Manual,282,18300000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2018,75164427,638,6.2,Hybrid,Manual,249,31690000.0,First Owner,Imported
+Rolls-Royce,Ghost,2019,50062018,526,7.0,Diesel,Automatic,328,24920000.0,First Owner,
+Rolls-Royce,Ghost,2012,41303998,586,7.6,Hybrid,Automatic,303,28890000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2010,31472212,598,7.4,Diesel,Automatic,304,19690000.0,Third Owner,
+Rolls-Royce,Ghost,2023,62116014,541,7.9,Hybrid,Automatic,286,40430000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2016,72638783,648,7.4,Hybrid,Manual,246,43920000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2010,71165852,517,6.5,Hybrid,Manual,269,32440000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2017,72286566,509,6.8,Petrol,Automatic,239,41590000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2015,27153624,586,6.4,Hybrid,Automatic,259,16330000.0,First Owner,Imported
+Rolls-Royce,Ghost,2021,70090543,644,6.1,Petrol,Automatic,280,48510000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2014,46088889,518,6.7,Hybrid,Automatic,222,19330000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2023,46561705,552,7.7,Petrol,Manual,256,23190000.0,First Owner,Imported
+Rolls-Royce,Ghost,2014,71217915,621,6.1,Petrol,Automatic,305,45630000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2015,78549152,646,6.5,Hybrid,Automatic,266,37550000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2014,34798962,510,8.9,Diesel,Manual,245,17670000.0,First Owner,
+Rolls-Royce,Ghost,2020,44259794,581,8.9,Petrol,Automatic,295,19980000.0,First Owner,Imported
+Rolls-Royce,Ghost,2015,77628878,503,6.7,Diesel,Manual,222,38490000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2020,70668552,603,7.5,Hybrid,Manual,286,37130000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2018,30747950,506,7.9,Petrol,Manual,327,13750000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2013,55865330,582,8.7,Diesel,Automatic,318,38870000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2010,53462917,608,7.5,Petrol,Automatic,244,33060000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2018,29021432,553,8.1,Petrol,Manual,324,16640000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2018,74139036,502,6.0,Petrol,Automatic,279,39310000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2013,73946911,524,8.2,Hybrid,Automatic,303,42420000.0,First Owner,
+Rolls-Royce,Ghost,2019,68473322,585,8.6,Hybrid,Manual,233,33930000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2019,63725588,554,8.7,Diesel,Automatic,270,28350000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2023,52196599,611,6.9,Petrol,Automatic,318,29230000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2015,44658827,568,6.6,Hybrid,Automatic,273,22520000.0,Third Owner,
+Rolls-Royce,Ghost,2013,79302649,570,8.7,Petrol,Automatic,276,42510000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2013,62563794,599,8.0,Diesel,Manual,240,35250000.0,First Owner,
+Rolls-Royce,Ghost,2010,29371653,515,6.5,Diesel,Manual,273,20090000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2010,66598686,553,7.4,Diesel,Manual,286,41330000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2021,33790791,594,8.3,Diesel,Manual,310,18800000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2012,31950735,574,8.5,Petrol,Automatic,246,13570000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2018,38307105,593,7.1,Diesel,Manual,242,19720000.0,Third Owner,
+Rolls-Royce,Ghost,2013,51715649,529,7.1,Hybrid,Automatic,286,33380000.0,First Owner,Imported
+Rolls-Royce,Ghost,2021,31438767,575,8.7,Petrol,Automatic,253,21890000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2018,69999947,584,8.9,Petrol,Automatic,322,47810000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2011,58973291,526,8.3,Petrol,Automatic,325,26920000.0,Third Owner,
+Rolls-Royce,Ghost,2019,28470954,587,6.3,Petrol,Manual,293,18850000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2018,53378241,600,6.0,Hybrid,Automatic,247,27040000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2011,46786991,506,6.3,Hybrid,Manual,257,23020000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2019,71719122,622,8.7,Petrol,Automatic,223,34830000.0,Second Owner,
+Rolls-Royce,Ghost,2019,46632154,523,8.7,Petrol,Automatic,310,27860000.0,Second Owner,Imported
+Rolls-Royce,Ghost,2023,53245287,553,7.2,Petrol,Automatic,267,32180000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2012,76718229,561,7.7,Petrol,Automatic,320,48990000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2011,60818581,566,7.0,Hybrid,Automatic,250,34940000.0,Second Owner,
+Rolls-Royce,Ghost,2023,26090310,516,6.3,Petrol,Manual,231,14710000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2016,73101837,531,7.0,Petrol,Automatic,234,48530000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2015,37888866,520,6.0,Hybrid,Manual,246,26300000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2012,74678478,644,7.4,Petrol,Automatic,280,44650000.0,Third Owner,
+Rolls-Royce,Ghost,2022,53858001,573,7.9,Diesel,Manual,317,33100000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2021,27759705,518,7.5,Petrol,Automatic,269,12370000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2013,67470679,606,7.9,Hybrid,Manual,243,32520000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2017,60786879,631,8.2,Hybrid,Automatic,302,29580000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2023,49661940,560,8.6,Diesel,Manual,249,22960000.0,First Owner,
+Rolls-Royce,Ghost,2023,68841923,603,6.6,Diesel,Manual,249,36030000.0,First Owner,
+Rolls-Royce,Ghost,2012,32595770,518,8.0,Diesel,Manual,254,19650000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2020,58643214,595,8.3,Diesel,Automatic,275,26320000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2019,47771562,599,7.7,Hybrid,Manual,280,27410000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2023,57706292,512,6.6,Petrol,Manual,292,32570000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2012,76600733,555,8.9,Diesel,Automatic,283,47350000.0,First Owner,
+Rolls-Royce,Ghost,2016,54506398,644,6.1,Hybrid,Automatic,267,22090000.0,Third Owner,
+Rolls-Royce,Ghost,2023,36559051,605,7.9,Diesel,Automatic,268,16990000.0,Second Owner,
+Rolls-Royce,Ghost,2010,77329754,548,7.2,Petrol,Manual,311,49110000.0,Second Owner,
+Rolls-Royce,Ghost,2010,62082506,573,8.3,Diesel,Automatic,326,26220000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2014,39485466,619,7.3,Hybrid,Manual,291,23310000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2010,59853176,573,7.2,Diesel,Automatic,265,33880000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2012,72978384,581,7.6,Petrol,Automatic,283,49200000.0,Second Owner,Well maintained
+Rolls-Royce,Ghost,2016,46928723,645,6.1,Diesel,Manual,303,23230000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2016,74773739,645,7.4,Hybrid,Manual,240,32350000.0,Third Owner,Luxury edition
+Rolls-Royce,Ghost,2016,42260940,629,6.6,Petrol,Automatic,246,19260000.0,Second Owner,
+Rolls-Royce,Ghost,2013,28077530,542,6.2,Petrol,Manual,241,12900000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2013,69486639,551,6.7,Petrol,Manual,265,41470000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2016,44779597,621,6.8,Hybrid,Automatic,222,30190000.0,Third Owner,
+Rolls-Royce,Ghost,2021,28402489,566,8.2,Hybrid,Automatic,307,19480000.0,Second Owner,Luxury edition
+Rolls-Royce,Ghost,2014,60982038,500,6.3,Petrol,Manual,291,29270000.0,First Owner,Imported
+Rolls-Royce,Ghost,2015,66099834,522,9.0,Diesel,Automatic,260,31290000.0,First Owner,
+Rolls-Royce,Ghost,2022,38086381,544,8.4,Petrol,Manual,286,18690000.0,Second Owner,
+Rolls-Royce,Ghost,2018,50646661,532,7.1,Hybrid,Manual,323,25720000.0,Second Owner,Single owner
+Rolls-Royce,Ghost,2019,52064456,628,6.4,Petrol,Automatic,252,27220000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2013,42191744,562,7.2,Petrol,Automatic,233,28450000.0,Third Owner,
+Rolls-Royce,Ghost,2017,56873243,566,8.8,Petrol,Automatic,223,25100000.0,Third Owner,
+Rolls-Royce,Ghost,2011,53214185,505,6.3,Hybrid,Automatic,274,29020000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2016,40328818,524,7.3,Diesel,Automatic,281,26640000.0,First Owner,Imported
+Rolls-Royce,Ghost,2014,36773540,510,6.1,Hybrid,Automatic,241,15600000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2022,65665680,566,7.5,Diesel,Manual,233,32710000.0,Third Owner,
+Rolls-Royce,Ghost,2015,71177985,615,8.6,Hybrid,Automatic,293,45010000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2013,58770647,627,6.4,Hybrid,Automatic,307,25270000.0,Third Owner,
+Rolls-Royce,Ghost,2016,38682649,530,6.7,Petrol,Automatic,314,24420000.0,Third Owner,
+Rolls-Royce,Ghost,2021,25561187,543,7.1,Hybrid,Manual,313,13770000.0,First Owner,Imported
+Rolls-Royce,Ghost,2010,39401900,603,6.5,Petrol,Manual,261,20040000.0,Third Owner,
+Rolls-Royce,Ghost,2014,50784667,646,8.1,Petrol,Automatic,281,24020000.0,Third Owner,Well maintained
+Rolls-Royce,Ghost,2015,52018930,568,6.7,Petrol,Automatic,320,23010000.0,First Owner,Single owner
+Rolls-Royce,Ghost,2023,33531377,552,8.9,Petrol,Manual,295,21390000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2021,26737422,611,8.3,Diesel,Automatic,283,12460000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2019,53496930,594,8.7,Diesel,Manual,304,26020000.0,First Owner,Luxury edition
+Rolls-Royce,Ghost,2014,37410209,558,6.4,Petrol,Automatic,230,20040000.0,First Owner,Well maintained
+Rolls-Royce,Ghost,2020,76994190,634,6.5,Petrol,Automatic,293,52690000.0,Third Owner,Imported
+Rolls-Royce,Ghost,2014,67457613,594,7.2,Petrol,Automatic,268,38160000.0,Third Owner,Single owner
+Rolls-Royce,Ghost,2010,35012750,527,8.3,Petrol,Automatic,263,19180000.0,Second Owner,Luxury edition
